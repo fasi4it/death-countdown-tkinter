@@ -32,11 +32,13 @@ Before running or installing the app, make sure you have:
   ```bash
   pip3 install pillow
 
-## 📦 Installation (Ubuntu .deb)
-Option 1: Install from Release
-Go to Releases
-Download the .deb file
-Install it : sudo dpkg -i death-countdown.deb
+### Option 1: Install Pre-Built `.deb`
+
+1. Go to [Releases](https://github.com/yourusername/death-countdown-tkinter/releases) 
+2. Download the latest `.deb` file
+3. Install it:
+   ```bash
+   sudo dpkg -i death-countdown.deb.deb
 
 Option 2: Build Your Own .deb
 Make sure you have packaging tools : sudo apt install python3 python3-tk devscripts debhelper build-essential
