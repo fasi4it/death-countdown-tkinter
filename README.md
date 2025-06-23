@@ -4,7 +4,7 @@ A minimalistic and motivational desktop app that shows how much time you have le
 
 This app runs as a floating transparent widget on your desktop and updates every second. You can customize your birthdate and life expectancy through the settings menu.
 
-![App Screenshot](screenshots/screenshot.png)
+![App Screenshot](screenshots/)
 
 ## 🔍 Features
 
